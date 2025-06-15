@@ -1,0 +1,125 @@
+.bg_2{
+  width: 400px;
+height: 478.5px;
+left: 16px;
+top: 13.5px;
+position: absolute;
+background: white;
+box-shadow: 0px 10px 2px rgba(0, 0, 0, 0.50);
+border-radius: 50px;
+}
+
+.search {
+  width: 275.5px;
+  height: 62px;
+  left: 80px;
+  top: 26.5px;
+  position: absolute;
+  background: rgb(255, 251, 251);
+  box-shadow: 1px 5px 2px rgba(0, 0, 0, 0.50);
+  border-radius: 25px;
+}
+
+.more {
+  width: 25px;
+  height: 25px;
+  left: 20px;
+  top: 25px;
+  position: absolute;
+}
+
+.search_2 {
+  width: 200.5px;
+  height: 25px;
+  left: 130px;
+  top: 46.5px;
+  position: absolute;
+  color: rgba(0, 0, 0, 0.22);
+  font-size: 18px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+  border: 0px;
+}
+
+.profile {
+  width: 50px;
+  height: 50px;
+  left: 361px;
+  top: 39px;
+  position: absolute;
+  border-radius: 4999px;
+}
+
+.title_m {
+  width: 167.5px;
+  height: 40.5px;
+  left: 128px;
+  top: 103px;
+  position: absolute;
+  color: black;
+  font-size: 32px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.p1 {
+  width: 50px;
+  height: 50px;
+  left: 49.5px;
+  top: 171px;
+  position: absolute;
+  border-radius: 50px;
+}
+
+.name {
+    width: 167.5px;
+    height: 20.5px;
+    left: 128px;
+    top: 175px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: 'Inter';
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .logoi {
+    width: 105px;
+    height: 49px;
+    left: 290px;
+    top: 450.5px;
+    position: absolute;
+  }
+    
+  .back_m {
+    width: 37.5px;
+    height: 37.5px;
+    left: 30px;
+    top: 40px;
+    position: absolute;
+  }
+
+  .pencil {
+    width: 36px;
+    height: 30.5px;
+    left: 349px;
+    top: 450px;
+    position: absolute;
+  }
+  
+  .back_button {
+    width: 50px;
+    height: 50px;
+    left: 340px;
+    top: 440px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 50%;
+  }
+
+
+  
+  
